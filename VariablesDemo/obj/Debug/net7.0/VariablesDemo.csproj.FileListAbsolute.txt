@@ -1,0 +1,15 @@
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.csproj.AssemblyReference.cache
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.AssemblyInfoInputs.cache
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.AssemblyInfo.cs
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.csproj.CoreCompileInputs.cache
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/bin/Debug/net7.0/VariablesDemo
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/bin/Debug/net7.0/VariablesDemo.deps.json
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/bin/Debug/net7.0/VariablesDemo.runtimeconfig.json
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/bin/Debug/net7.0/VariablesDemo.dll
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/bin/Debug/net7.0/VariablesDemo.pdb
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.dll
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/refint/VariablesDemo.dll
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.pdb
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/VariablesDemo.genruntimeconfig.cache
+/Users/DavidSmith/Desktop/Repos/VariablesDemo/VariablesDemo/obj/Debug/net7.0/ref/VariablesDemo.dll
